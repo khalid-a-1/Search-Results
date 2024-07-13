@@ -46,5 +46,5 @@ The client will typically be available at `http://localhost:8080`, and the serve
 
 - `client`: Contains the frontend code.
 - `server`: Contains the backend code.
-- `Figma`: Contains design assets.
+- `figma`: Contains design assets.
 
